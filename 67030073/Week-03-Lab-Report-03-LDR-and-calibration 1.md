@@ -180,7 +180,8 @@ void app_main(void)
 | ใต้โคมไฟ | 4095    | 907              |
 | กลางแจ้ง | -       | -                |
 
-![[Pasted image 20260714122818.png]]
+<img width="682" height="412" alt="image" src="https://github.com/user-attachments/assets/b15705af-7ab8-458d-966e-df30b85a5dff" />
+
 **เป้าหมาย:** สร้างกราฟ ADC → Lux เพื่อหาความสัมพันธ์
 
 ## **ส่วนที่ 5 — การทำกราฟ เพื่อหาสมการ**
